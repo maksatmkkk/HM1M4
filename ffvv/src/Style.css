@@ -1,0 +1,184 @@
+
+.Talk-to-an-Expert{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+}
+.Login{
+    border-radius: 20px;
+    height: 40px;
+    width: 96px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:170px;
+}
+.logoFrame{
+    background-image: url('/src/img/Frame.svg');
+    width: 195px;
+    height: 42px;
+}
+.Btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+}
+.Baner{
+    font-size: 77px;
+    height: 166px;
+    width: 491px;
+}
+.About{
+width: 400px;
+}
+.Finansed{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Switch{
+    font-weight: 700;
+}
+.Talk-Fin{
+    border-radius: 20px;
+    background-color: black;
+    color: aliceblue;
+    width: 159px;
+    height: 40px;
+}
+.ImgPc{
+    background-image: url('/src/img/Rectangle.svg');
+    width: 667px;
+    height: 517px;
+}
+.Best{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    gap: 100px;
+}
+.ImgBest{
+    background-image: url('/src/img/Rectangle\ \(1\).svg');
+    width: 483px;
+    height: 280px;
+}
+.BestText{
+font-size: 57px;
+width: 443px;
+}
+.BestText1{
+    width: 515px;
+    height: 123px;
+}
+.Why{
+    display: flex;
+   gap: 20px;
+    flex-direction: column;
+    height: 791px;
+}
+
+.ImgWhy{
+    background-image: url('/src/img/Frame\ \(1\).svg');
+    width: 1035px;
+    height: 396px;
+}
+.WhyDis{
+    width: 205px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: pink;
+}
+.WhyCon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Pink{
+    background-color: pink;
+    height: 630px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Plans{
+    height: 58px;
+    font-size: 58px;
+    width: 557px;
+}
+.ImgPink{
+    background-image: url('/src/img/Frame\ \(2\).svg');
+    width: 1035px;
+    height: 467.97px;
+}
+
+.Ac{
+    width: 343px;
+    font-size: 58px;
+}
+.Ex{
+    width: 547px;
+}
+
+.Hub{
+    display: flex;
+    align-items: center;
+    height: 700px;
+    justify-content: center;
+}
+.HubBtn{
+    background-color: pink;
+    width: 140px;
+    height: 50px;
+    border-radius: 40px;
+}
+.TextHub{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.HubImg{
+    background-image: url('/src/img/Rectangle\ \(2\).svg');
+    height: 451px;
+    width: 483px;
+
+}
+.ReadyCon{
+    height: 499px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Ready{
+    height: 283px;
+    width: 1150px;
+    background-color: #8BD4D6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 300px;
+}
+.SwitchRed{
+    font-size: 46px;
+}
+.SpeakRed{
+    font-size: 20px;
+
+}
+.GetRed{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+    width: 159px;
+    height: 50px;
+}
+
+.Footer{
+    background-image: url('/src/img/Frame\ \(5\).svg');
+    height: 631px;
+}
